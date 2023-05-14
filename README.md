@@ -7,6 +7,7 @@
 写真は物理イメージです。基板製作中なのでまだ存在しません。XIAOスクエア液晶モジュール基板にM5StampS3を乗せています。
 
 
+
 M5StampS3を使用して1.69インチ240ｘ280ドットの角丸四角形液晶を駆動する基板モジュールです。
 
 液晶の裏にM5StampS3を配置することで、とても小さくスリムな形状になってます。
@@ -76,7 +77,7 @@ M5StampS3の情報については、以下サイトを参考下さい。
 
 https://docs.m5stack.com/en/core/StampS3
 
-グラフィックライブラリについてはlovyanさまのLovyanGFXにて動作確認をしています。
+グラフィックライブラリについてはlovyanさまのLovyanGFXにて動作確認をします。
 
 https://github.com/lovyan03/LovyanGFX
 

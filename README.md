@@ -94,7 +94,7 @@ https://github.com/urukakanko/M5StampS3_Square_LCD/tree/main/M5stampS3_square_Cl
 
 # LCD表示動画
 
-準備中
+https://youtu.be/BJnyOqUegl8
 
 
 

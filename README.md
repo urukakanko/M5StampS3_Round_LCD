@@ -88,7 +88,7 @@ https://github.com/lovyan03/LovyanGFX
 
 # サンプルプログラム
 
-準備中
+https://github.com/urukakanko/M5StampS3_Square_LCD/tree/main/M5stampS3_square_ClockSample
 
 
 
